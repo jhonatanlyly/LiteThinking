@@ -56,7 +56,7 @@ useEffect (()=>{
           </button>
         </div>
 
-        {/* Usando if-else */}
+        {/* Usando if */}
         <div className="mt-2">
           {userRole === 'admin' && (
             <div>

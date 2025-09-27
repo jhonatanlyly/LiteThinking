@@ -10,7 +10,7 @@ export default function useFetch(url) {
         fetch(url)
             .then((response) => {
                 if (!response.ok) {
-                    throw new Error('Error en la petición');
+                    throw new Error("Error en la petición");
                 }
                 return response.json();
             })
@@ -19,8 +19,6 @@ export default function useFetch(url) {
             .finally(() => {
                 setLoading(false);
             });
-
-    }, [url]); 
+    }, [url]);
     return { data, loading, error };
-
 }

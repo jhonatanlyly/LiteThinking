@@ -4,3 +4,18 @@
 - https://docs.npmjs.com/cli/v10/commands/npm-install
 - https://react-bootstrap.netlify.app/docs/getting-started/introduction
 - https://getbootstrap.com/docs/5.3/getting-started/javascript/
+
+Listar versiones React
+npm list react react-dom react-router-dom
+https://reactrouter.com/6.30.1/upgrading/future#v7_starttransition
+https://react.dev/versions
+
+https://es.react.dev/learn/creating-a-react-app
+https://es.react.dev/learn
+https://yarnpkg.com/getting-started/install
+https://docs.npmjs.com/cli/v10/commands/npm-install
+https://code.visualstudio.com/download
+https://github.com/jhonatanlyly/LiteThinking/blob/main/Tema01-Frontend-React/Secion02-Componentes/hooks-app/src/App.css
+https://conemu.github.io/en/Downloads.html
+https://getbootstrap.com/docs/5.0/components/card/
+https://jsonplaceholder.typicode.com/users
